@@ -30,7 +30,7 @@ export default {
     placeholder: String,
     val: String,
     value: {},
-    class: String,
+    'class': String,
   },
 
   data() {
